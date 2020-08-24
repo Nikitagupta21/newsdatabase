@@ -37,9 +37,9 @@ public class ConnectionPool {
         if (connections == null) {
             try {
                 String userName = "root";
-                String password = "QRGltc39485";
+                String password = "nikita";
 
-                String url = "jdbc:mysql://node48421-env-niks.fr-1.paas.massivegrid.net/store";
+                String url = "jdbc:mysql://localhost:3306/store";
 
                 Class.forName("com.mysql.jdbc.Driver");
 

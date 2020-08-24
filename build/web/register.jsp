@@ -1,10 +1,4 @@
-<%-- 
-    Document   : add
-    Created on : 26-Jan-2020, 12:05:54
-    Author     : Dell
---%>
-
-<%@page contentType="text/html" pageEncoding="UTF-8" import="com.beans.Person,com.daos.PersonDao"%>
+ <%@page contentType="text/html" pageEncoding="UTF-8" import="com.beans.Person,com.daos.PersonDao"%>
 
 <!DOCTYPE html>
 <html>
@@ -47,11 +41,14 @@
             </script>
         </head>
         <body>
+            </br>
+            </br>
+            </br>
         <jsp:useBean id="person" class="com.beans.Person" scope="session"></jsp:useBean>
             <div class="container">
                 <div class="row">
                     <div class="col col-md-9">
-                        <center><h2>Registration page </h2></center>
+                        <center><h2></h2></center>
                         <form id="form1"  method='post' action="addpic.jsp"  class="form"> 
                             <table width="600" class="table">
                                 <tr>

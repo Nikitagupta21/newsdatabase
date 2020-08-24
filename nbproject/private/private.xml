@@ -3,18 +3,28 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/daos/NewsDao.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/controllers/ReporterController.java</file>
             <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/home.jsp</file>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/admin/updateStatus.jsp</file>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/admin/changeNewsStatus.jsp</file>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/admin/dashboard.jsp</file>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/login.jsp</file>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/detailnews.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/controllers/PersonControllers.java</file>
             <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/jdbc/ConnectionPool.java</file>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/admin/shownews.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/daos/SubscribersDao.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/subscribe.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/beans/subscriber.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/aboutus.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/message.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/daos/NewsDao.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/daos/AdminDao.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/admin/query.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/addpic.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/controllers/JsonController.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/contactus.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/utility/EmailSender.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/beans/Query.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/controllers/QueryController.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/controllers/NewsController.java</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/nav.jsp</file>
+            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/daos/QueryDao.java</file>
             <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/src/java/com/beans/Admin.java</file>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/admin/viewNews.jsp</file>
-            <file>file:/C:/Users/nikita/Documents/NetBeansProjects/MVC_Training/web/WEB-INF/web.xml</file>
         </group>
     </open-files>
 </project-private>
